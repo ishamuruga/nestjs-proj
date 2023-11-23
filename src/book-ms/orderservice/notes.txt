@@ -1,0 +1,6 @@
+sudo docker-compose up -d
+
+
+https://blog.logrocket.com/microservices-nestjs-kafka-typescript/
+
+https://github.com/vijitail/nestjs-kafka-microservices/tree/master

@@ -1,0 +1,7 @@
+http://localhost:8080?id=Book_1
+
+{
+   "title": "abcd",
+    "author": "auth1",
+    "release_date": "1/1/2000"
+}
